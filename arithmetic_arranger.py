@@ -48,3 +48,4 @@ def arithmetic_arranger(problems, display = False):
         #print(line1,line2,line3,line4)
         return line1 + '\n' + line2 + '\n' + line3 + '\n' + line4
     return line1 + '\n' + line2 + '\n' + line3
+    #new branch added
